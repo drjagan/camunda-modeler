@@ -6,14 +6,8 @@ An integrated modeling solution for Clinical Guidelines Based BPMN Modeling (Cam
 
 ![Camunda Modeler](https://raw.githubusercontent.com/camunda/camunda-modeler/master/docs/screenshot.png)
 
-
-## Resources
-
-* [Give Feedback](https://forum.camunda.org/c/modeler)
-* [Download](http://camunda.org/release/camunda-modeler) (see also [nightly builds](http://camunda.org/release/camunda-modeler/nightly))
-* [Report a Bug](https://github.com/camunda/camunda-modeler/issues)
-* [User Documentation](https://docs.camunda.org/manual/latest/modeler/camunda-modeler/)
-
+## Project: Process modelling for dynamically adaptive contextualisation of clinical practice guidelines based pathways 
+By: Department of Medical Informatics, Sri Balaji Vidyapeeth (Deemed University)
 
 ## Building the Application
 
