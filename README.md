@@ -1,11 +1,8 @@
-> Looking for the legacy [Camunda Eclipse plug-in](https://github.com/camunda/camunda-eclipse-plugin)?
-
-
-# Camunda Modeler
+# Clinical Guidelines Modeler (Camunda Modeler)
 
 [![Build Status](https://travis-ci.org/camunda/camunda-modeler.svg?branch=master)](https://travis-ci.org/camunda/camunda-modeler)
 
-An integrated modeling solution for BPMN, DMN and CMMN based on [bpmn.io](http://bpmn.io).
+An integrated modeling solution for Clinical Guidelines Based BPMN Modeling (Camunda)
 
 ![Camunda Modeler](https://raw.githubusercontent.com/camunda/camunda-modeler/master/docs/screenshot.png)
 
